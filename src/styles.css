@@ -6,7 +6,13 @@ body{
     margin-top: 20px;
 }
 
+.img-logo {
+    width: 200px;
+}
 
+.img-logo-dc {
+    width: 190px;
+}
 /*Animaciones*/
 .animated {
     -webkit-animation-duration: 1s;
